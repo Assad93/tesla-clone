@@ -1,7 +1,7 @@
 # Tesla website clone
 
 ## Project description
-    A clone of the tesla website, created with react + redux. In this clone, styled-components were used to style.
+    A clone of the tesla main page, created with react + redux. In this clone, styled-components were used to style.
 
 ## Cool features
     - Responsive website
