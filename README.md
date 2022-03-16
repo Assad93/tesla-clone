@@ -1,25 +1,40 @@
-# Tesla website clone
+# Tesla Clone
 
-## Project description
-    A clone of the tesla main page, created with react + redux. In this clone, styled-components were used to style.
+![GitHub repo size](https://img.shields.io/github/repo-size/Assad93/tesla-clone?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/Assad93/tesla-clone?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Assad93/tesla-clone?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Assad93/tesla-clone?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Assad93/tesla-clone?style=for-the-badge)
 
-## Cool features
-    - Responsive website
-    - animations
-    - hamburger menu
+<img src="./public/images/tesla-clone.jpg" alt="Tela principal Tesla">
 
-## How to run the APP
-    - In the terminal, clone the project: 
-        git clone https://github.com/Assad93/tesla-clone.git
+> UI Clone do Site da Tesla 
 
-    - Enter the project folder: 
-        cd tesla-clone
+## Site em produção
+  Quem sabe faz ao vivo meu!
+  
+  [Tesla Clone](https://tesla-clone-958ef7.netlify.app/)
 
-    - Install the dependencies: 
-        npm install
+## 💻 Pré-requisitos
 
-    - Run: 
-        npm start
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+* Você possui o `Node Js` instalado em sua máquina?
 
-## Deploy da Aplicação com Netlify: :dash:
-    https://tesla-clone-958ef7.netlify.app/
+## 🚀 Instalando Tesla Clone
+
+Para instalar o Tesla UI Clone, siga estas etapas:
+
+* Abra o terminal e navegue até a pasta do projeto e, depois:
+```
+npm install
+```
+
+## ☕ Usando Tesla Clone
+
+Para usar, siga estas etapas:
+
+Na raiz do projeto, execute no terminal:
+```
+npm run start
+```
+Fique à vontade para contribuir!
